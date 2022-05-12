@@ -27,3 +27,9 @@ Les fonctionnalités demandées sont :
     - stocker des données et/ou des paramètres de configuration dans une base de données
 
 ![](capture.png)
+
+## Auteurs
+
+- IR : [jmercklen](https://github.com/jmercklen)
+- IR : [nrouanet](https://github.com/nrouanet)
+- EC : [IlyesProSn](https://github.com/IlyesProSn)
